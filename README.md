@@ -12,5 +12,5 @@ We show that SCN is a general capsule network that can successfully be applied t
 
 ## Acknowledgment 
 The base of the code has been borrowed from
-* [Progressive Growing of GANs)](https://github.com/tkarras/progressive_growing_of_gans)
+* [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans)
 
