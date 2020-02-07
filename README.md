@@ -1,4 +1,3 @@
-%# SubSpace-Capsule-Network
 ## Subspace Capsule Network
 
 
